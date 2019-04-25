@@ -1,0 +1,16 @@
+{
+  "name": "rpsls",
+  "version": "1.0.0",
+  "description": "rock paper scissor lizard spock",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "sqlite": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Prateek gupta"
+
+}
