@@ -1,0 +1,6 @@
+# dependencies
+/node_modules
+
+
+#do not share the key though lol that's stupid
+config.json
